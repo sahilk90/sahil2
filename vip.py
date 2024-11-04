@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 import re
 
 # Configuration
-TELEGRAM_BOT_TOKEN = '7847570111:AAEn7w5MaTCHkRwyObQwgZhsr-dbmekcRAQ'  # Replace with your Telegram bot token
-ADMIN_IDS = {7533233807}  # Replace with your actual admin user ID(s)
+TELEGRAM_BOT_TOKEN = '7263360382:AAGXuphmy7-ypdsqlC-5jG05QKNwIjnWbnU'  # Replace with your Telegram bot token
+ADMIN_IDS = {6512242172}  # Replace with your actual admin user ID(s)
 
 # Binary path
 BINARY_PATH = "./vip"
